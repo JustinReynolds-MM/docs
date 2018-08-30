@@ -8,8 +8,3 @@ See developers.mattermost.com for the developer flow of the following repositori
  - [mattermost-mobile](https://developers.mattermost.com/contribute/mobile/developer-setup)
  - [desktop](https://developers.mattermost.com/contribute/desktop/developer-setup)
  
-### Testing with GitLab Omnibus ###
-
-To test a locally compiled version of Mattermost with GitLab Omnibus, replace the following GitLab files:
- * The compiled `mattermost` binary in `/opt/gitlab/embedded/bin/mattermost`
- * The assets (templates, i18n, fonts, webapp) in `/opt/gitlab/embedded/service/mattermost`
